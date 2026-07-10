@@ -47,9 +47,3 @@ This project is a Python-based web scraping project that collects product inform
 4. Merge datasets
 5. Create Power BI dashboard
 6. Analyze insights
-
-## 👩‍💻 Author
-
-**Lahari**
-
-Final Year B.Tech (Computer Science Engineering)
